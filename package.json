@@ -1,6 +1,6 @@
 {
   "name": "wechat",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Node.js RESTful API for Wechat",
   "main": "app.js",
   "dependencies": {
@@ -9,16 +9,16 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SilenceHVK/wechatByNode.git"
+    "url": "git+https://github.com/blony/WeChatService.git"
   },
   "author": "Bobby",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SilenceHVK/wechatByNode/issues"
+    "url": "https://github.com/blony/WeChatService/issues"
   },
-  "homepage": "https://github.com/SilenceHVK/wechatByNode#readme"
+  "homepage": "https://github.com/blony/WeChatService#readme"
 }
