@@ -1,4 +1,4 @@
-# Node.js 微信公众号开发 ![git start](https://img.shields.io/github/stars/blony/wechatservice.svg?style=social&label=Star) ![git fork](https://img.shields.io/github/forks/blony/wechatservice.svg?style=social&label=Fork) [![](https://img.shields.io/github/issues/blony/wechatservice.svg?style=social&label=Issues)](https://github.com/blony/wechatservice/issues) [![](https://img.shields.io/github/release/blony/wechatservice.svg?style=social&label=Releases)](https://github.com/blony/wechatservice/releases)
+# Node.js RESTful API for Wechat ![git start](https://img.shields.io/github/stars/blony/wechatservice.svg?style=social&label=Star) ![git fork](https://img.shields.io/github/forks/blony/wechatservice.svg?style=social&label=Fork) [![](https://img.shields.io/github/issues/blony/wechatservice.svg?style=social&label=Issues)](https://github.com/blony/wechatservice/issues) [![](https://img.shields.io/github/release/blony/wechatservice.svg?style=social&label=Releases)](https://github.com/blony/wechatservice/releases)
 
 ![node version](https://img.shields.io/badge/node-10.1.0-brightgreen.svg)
 ![npm version](https://img.shields.io/badge/npm-6.4.1-brightgreen.svg)
