@@ -31,7 +31,7 @@
 # 构建项目
  1. 将项目 clone 到本地
     ```bash
-    git clone git@github.com:blony/WeChatService.git
+    git clone git@github.com:blony/wechat-service.git
     ```
 
  2. 打开项目配置文件 config.json
